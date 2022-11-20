@@ -1,0 +1,15 @@
+[submodule "util-ext-pack"]
+	path = util-ext-pack
+	url = https://github.com/GWMCwing/util-ext-pack
+[submodule "md-ext-pack"]
+	path = md-ext-pack
+	url = https://github.com/GWMCwing/md-ext-pack
+[submodule "py-ext-pack"]
+	path = py-ext-pack
+	url = https://github.com/GWMCwing/py-ext-pack
+[submodule "c-cpp-ext-pack"]
+	path = c-cpp-ext-pack
+	url = https://github.com/GWMCwing/c-cpp-ext-pack
+[submodule "js-ext-pack"]
+	path = js-ext-pack
+	url = https://github.com/GWMCwing/js-ext-pack
