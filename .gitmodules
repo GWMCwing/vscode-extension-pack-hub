@@ -13,3 +13,4 @@
 [submodule "js-ext-pack"]
 	path = js-ext-pack
 	url = https://github.com/GWMCwing/js-ext-pack
+	branch = main
